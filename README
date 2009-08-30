@@ -1,2 +1,6 @@
 This is a simple GreaseMonkey script to show the ratio of votes to comments for stories on Hacker News.
 
+Link to raw JS file, so GreaseMonkey and GitHub don't kill each other:
+
+http://github.com/alexcurelea/HNScore/raw/master/hnscore.user.js
+
